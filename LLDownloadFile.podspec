@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Lance' => 'lance_lan_2016@163.com' }
-  s.source           = { :git => 'https://github.com/Lance/LLDownloadFile.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Lance201314/LLDownloadFIle.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

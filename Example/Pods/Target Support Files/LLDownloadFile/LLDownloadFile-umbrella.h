@@ -10,6 +10,12 @@
 #endif
 #endif
 
+#import "LLFileBaseDownload.h"
+#import "LLFileCommac.h"
+#import "LLFileMangerDownload.h"
+#import "LLFileMultiBaseDownload.h"
+#import "LLFileMultiDownload.h"
+#import "LLFileSingleDownload.h"
 
 FOUNDATION_EXPORT double LLDownloadFileVersionNumber;
 FOUNDATION_EXPORT const unsigned char LLDownloadFileVersionString[];
