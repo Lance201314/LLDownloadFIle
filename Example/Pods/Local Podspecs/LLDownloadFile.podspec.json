@@ -1,0 +1,22 @@
+{
+  "name": "LLDownloadFile",
+  "version": "0.1.0",
+  "summary": "A short description of LLDownloadFile.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lance/LLDownloadFile",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lance": "lance_lan_2016@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Lance/LLDownloadFile.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LLDownloadFile/Classes/**/*"
+}

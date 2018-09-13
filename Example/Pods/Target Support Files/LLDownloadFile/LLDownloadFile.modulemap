@@ -1,0 +1,6 @@
+framework module LLDownloadFile {
+  umbrella header "LLDownloadFile-umbrella.h"
+
+  export *
+  module * { export * }
+}
