@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LLDownloadFile_Example' do
+  pod 'LLDownloadFile', :path => '../'
+
+  target 'LLDownloadFile_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
